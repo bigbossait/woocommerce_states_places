@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Regions du Maroc
+ * Regions of Morocco
  * - 12 Regions
  * 
  * Source: 
