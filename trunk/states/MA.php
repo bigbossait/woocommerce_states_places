@@ -29,5 +29,5 @@ $states['MA'] = array(
 	'12' => 'DAKHLA-OUED EDDAHAB',
 );
 
-// Use this filter to handle the Governorates of Jordan
+// Use this filter to handle the Regions of Morocco
 $states['MA'] = apply_filters('scpwoo_custom_states_ma', $states['MA']);
